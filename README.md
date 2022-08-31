@@ -5,7 +5,10 @@ I also used the Bootstrap navbar component for the header on every page, the Boo
 
 Navbar has a working dropdown with links to plot pages on every page and it collapses when the window is reduced in size.
 
-The website works at all window widths
+The website works at all window widths.
+
+The website is accessible at the following link:
+https://helleborus22.github.io/Web-Design-Challenge/
 
 # References
 OpenWeatherMap.org. (2012). Сurrent weather and forecast. Retrieved from https://openweathermap.org/
